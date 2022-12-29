@@ -50,7 +50,7 @@
 | Name | Description | State | 
 | ------ | ----------- | ---------- | 
 | `portfolio.th` | My personal website listing my background and my skills. | Production | 
-| `Pyjam'zz`(r) | Site e-commerce pour une cliente, vente de pyjamas pou femme.. | Development | 
+| `Pyjam'zz` | E-commerce website for a client, sale of pajamas for women. | Development | 
 | `wwiDEV` | A blog for learn all my experience or tips. | Development | 
 | `Gekalorie`    | Web application allowing the calculation of calories and more. | Development | 
 ---
