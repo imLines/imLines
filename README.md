@@ -52,7 +52,7 @@
 | `portfolio.th` | My personal website listing my background and my skills. | Production | 
 | `Pyjam'zz` | E-commerce website for a client, sale of pajamas for women. | Development | 
 | `wwiDEV` | A blog for learn all my experience or tips. | Development | 
-| `Gekalorie`    | Web application allowing the calculation of calories and more. | Development | 
+| `Gekalorie`    | Application allowing the calculation of calories and more. | Production | 
 ---
 
 
